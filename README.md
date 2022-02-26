@@ -20,19 +20,19 @@ utilizado php.
 
 **Imagem do Update  e Delete:**
 
-![UpdateEDelete.png]
+![](UpdateEDelete.png)
 
 
 
 **Imagem do Selecionar e ler:**
 
-![SelectERead.png]
+![](SelectERead.png)
 
 
 
 **Imagem do Inserir:**
 
-![InsertAju.png]
+![](InsertAju.png)
 
 
 
