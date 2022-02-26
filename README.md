@@ -14,7 +14,7 @@ utilizado php.
 
 **Imagem do Login:**
 
-![AjuHotel/build/web/hotelAJU4.jfif]
+![](loginAju.png)
 
 
 
