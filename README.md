@@ -14,7 +14,7 @@ utilizado php.
 
 **Imagem do Login:**
 
-![loginAju.png]
+!loginAju.png
 
 
 
