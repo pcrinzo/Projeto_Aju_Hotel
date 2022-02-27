@@ -20,7 +20,7 @@ utilizado php.
 
 **Imagem do Update  e Delete:**
 
-![](UpdateEDelete.png)
+![](UpdadeEDelete.png)
 
 
 
